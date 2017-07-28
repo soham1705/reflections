@@ -15,3 +15,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 	When we want to create a feature we're not sure of (we can revert to the original version anytime)
 	When many people are collaborating on the same project
+
+How do the diagrams help you visualize the branch structure?
+
+	They provide clarity on which commits belong to which branch and which branches are reachable from where.
