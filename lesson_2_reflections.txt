@@ -6,3 +6,7 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	A staging area is an intermediate area where one can store the particular files to be committed. It offers the flexibility of choosing particular files to commit instead of committing the entire working directory at once.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	We add only those files to the staging area which are required to be updated in the latest commit.
