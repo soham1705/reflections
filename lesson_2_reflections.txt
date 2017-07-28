@@ -24,3 +24,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	The commits introduced in both branches are added to the merged branch. 
 	This is because the merged branch has to contain the commits of both the branches, so it takes both their tips as parents.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros: Ability to smartly understand which changes were intended to remain in the final version (in most cases)
+	Cons: May lead to undesired changes in some cases
