@@ -21,3 +21,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	Sharing files through pendrive,hard-disks etc. or Google Drive.
 	Easier: No complicated steps like merges,forks,commits etc.
 	Harder: No proper synchronisation of changes
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	Separate branch: Trying out an experimental feature that does not interfere with the main code. The main code remains intact.
+	Main branch: There is no need to merge. Much simpler.
